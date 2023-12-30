@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "Library Management System",
+      "features": [
+        "User-friendly interface",
+        "Book cataloging",
+        "Member management",
+        "Check-in/check-out system"
+      ],
+      "image": "https://i.postimg.cc/P5yGhQ43/liabray.jpg"  
+    },
+    {
+      "id": 2,
+      "name": "Tech Shop",
+      "features": [
+        "Product catalog",
+        "Shopping cart functionality",
+        "User reviews and ratings",
+        "Secure online transactions"
+      ],
+      "image": "https://png.pngtree.com/background/20230521/original/pngtree-commercial-electronics-store-of-many-screens-picture-image_2683696.jpg"  
+    },
+    {
+      "id": 3,
+      "name": "Wedding Management",
+      "features": [
+        "Guest list management",
+        "Event scheduling",
+        "Budget tracking",
+        "Vendor coordination"
+      ],
+      "image": "https://cdn0.weddingwire.in/article/3486/original/1280/jpg/76843-wedding-planner-responsibilities-atisuto-wedding-planning.jpeg"  
+    }
+  ]
+  
